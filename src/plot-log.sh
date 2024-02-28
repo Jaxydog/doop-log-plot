@@ -8,6 +8,11 @@ display_usage() {
     echo -e "-f [file]\tUse the provided CSV file."
 }
 
+if [[ -z "$1" ]]; then
+    display_usage
+    exit 0
+fi
+
 log_file="$1"
 
 shift
