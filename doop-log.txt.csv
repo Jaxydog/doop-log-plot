@@ -1,0 +1,429 @@
+
+1704973584,info,initialized logging thread
+1704973584,info,initialized storage directory
+1704973584,info,loaded localizations
+1704973584,info,initialized localizer instance
+1704973584,info,loaded environment variables
+1704973584,info,initialized asynchronous runtime
+1704973584,info,initialized client instance
+1704973584,info,started client process
+1704973584,info,established api connection
+1704973584,info,patched 6 server commands
+1704973585,info,patched 5 global commands
+1704973591,info,received interaction
+1704973592,info,succeeded interaction
+1704999707,warn,websocket connection error
+1705017899,warn,websocket connection error
+1705041820,warn,websocket connection error
+1705054375,warn,websocket connection error
+1705074238,warn,websocket connection error
+1705076973,warn,websocket connection error
+1705083987,warn,websocket connection error
+1705090425,warn,websocket connection error
+1705090719,warn,websocket connection error
+1705110669,warn,websocket connection error
+1705122240,info,received interaction
+1705122241,info,received interaction
+1705122241,info,succeeded interaction
+1705122242,info,succeeded interaction
+1705211272,info,received interaction
+1705211273,info,succeeded interaction
+1705211698,info,received interaction
+1705211698,info,succeeded interaction
+1705211726,info,received interaction
+1705211726,info,succeeded interaction
+1705211779,info,received interaction
+1705211779,info,succeeded interaction
+1705211893,info,received interaction
+1705211893,info,succeeded interaction
+1705211925,info,received interaction
+1705211925,info,succeeded interaction
+1705212136,info,received interaction
+1705212138,info,succeeded interaction
+1705331491,warn,websocket connection error
+1705356416,warn,websocket connection error
+1705359624,info,received interaction
+1705359625,info,succeeded interaction
+1705359628,info,received interaction
+1705359629,info,succeeded interaction
+1705373549,info,received interaction
+1705373551,info,succeeded interaction
+1705375154,info,received interaction
+1705375155,info,succeeded interaction
+1705375189,info,received interaction
+1705375189,info,succeeded interaction
+1705421826,warn,websocket connection error
+1705432205,warn,websocket connection error
+1705512124,warn,websocket connection error
+1705526347,info,received interaction
+1705526348,info,succeeded interaction
+1705560168,warn,websocket connection error
+1705564788,warn,websocket connection error
+1705574395,warn,websocket connection error
+1705578488,warn,websocket connection error
+1705580198,warn,websocket connection error
+1705583609,warn,websocket connection error
+1705584690,warn,websocket connection error
+1705584979,warn,websocket connection error
+1705591615,warn,websocket connection error
+1705598348,warn,websocket connection error
+1705599398,warn,websocket connection error
+1705607285,warn,websocket connection error
+1705614871,warn,websocket connection error
+1705615270,warn,websocket connection error
+1705616094,warn,websocket connection error
+1705620407,warn,websocket connection error
+1705625105,warn,websocket connection error
+1705641098,warn,websocket connection error
+1705647089,info,received interaction
+1705647090,info,succeeded interaction
+1705655429,warn,websocket connection error
+1705657444,warn,websocket connection error
+1705678410,warn,websocket connection error
+1705686650,warn,websocket connection error
+1705693272,warn,websocket connection error
+1705701192,warn,websocket connection error
+1705701677,warn,websocket connection error
+1705709771,warn,websocket connection error
+1705714864,warn,websocket connection error
+1705748983,info,received interaction
+1705748983,info,succeeded interaction
+1705749119,info,received interaction
+1705749119,info,succeeded interaction
+1705749214,info,received interaction
+1705749214,info,succeeded interaction
+1705749223,info,received interaction
+1705749233,info,succeeded interaction
+1705749271,info,received interaction
+1705749271,info,succeeded interaction
+1705749274,info,received interaction
+1705749275,info,succeeded interaction
+1705749697,info,received interaction
+1705749698,info,succeeded interaction
+1705749699,info,received interaction
+1705749701,info,succeeded interaction
+1705749762,info,received interaction
+1705749763,info,succeeded interaction
+1705749765,info,received interaction
+1705749766,info,succeeded interaction
+1705750947,info,received interaction
+1705750948,info,succeeded interaction
+1705750979,info,received interaction
+1705750981,info,succeeded interaction
+1705751665,info,received interaction
+1705751665,info,succeeded interaction
+1705751666,info,received interaction
+1705751668,info,succeeded interaction
+1705830759,warn,websocket connection error
+1705924566,warn,websocket connection error
+1705928584,warn,websocket connection error
+1705940930,warn,websocket connection error
+1705990905,warn,websocket connection error
+1705998449,info,received interaction
+1705998449,info,succeeded interaction
+1705998615,info,received interaction
+1705998618,info,succeeded interaction
+1705998772,info,received interaction
+1705998772,info,succeeded interaction
+1705998778,info,received interaction
+1705998781,info,succeeded interaction
+1706010763,warn,websocket connection error
+1706042756,warn,websocket connection error
+1706047045,warn,websocket connection error
+1706093943,warn,websocket connection error
+1706099345,warn,websocket connection error
+1706116714,warn,websocket connection error
+1706139798,warn,websocket connection error
+1706142930,warn,websocket connection error
+1706143038,warn,websocket connection error
+1706147960,warn,websocket connection error
+1706169633,warn,websocket connection error
+1706176383,warn,websocket connection error
+1706201475,warn,websocket connection error
+1706209547,warn,websocket connection error
+1706223279,warn,websocket connection error
+1706223645,warn,websocket connection error
+1706228976,warn,websocket connection error
+1706231349,warn,websocket connection error
+1706240564,warn,websocket connection error
+1706245396,warn,websocket connection error
+1706251548,warn,websocket connection error
+1706291135,warn,websocket connection error
+1706298438,warn,websocket connection error
+1706319116,warn,websocket connection error
+1706319415,warn,websocket connection error
+1706322444,warn,websocket connection error
+1706326579,warn,websocket connection error
+1706365109,warn,websocket connection error
+1706431039,warn,websocket connection error
+1706622824,warn,websocket connection error
+1706626398,warn,websocket connection error
+1706644510,warn,websocket connection error
+1706653075,warn,websocket connection error
+1706707742,warn,websocket connection error
+1706710835,warn,websocket connection error
+1706717403,warn,websocket connection error
+1706749253,warn,websocket connection error
+1706749799,warn,websocket connection error
+1706766635,warn,websocket connection error
+1706782995,warn,websocket connection error
+1706796128,info,established api connection
+1706796128,info,patched 6 server commands
+1706796129,info,patched 5 global commands
+1706797659,warn,websocket connection error
+1706805834,warn,websocket connection error
+1706811407,warn,websocket connection error
+1706818170,warn,websocket connection error
+1706845439,warn,websocket connection error
+1706848188,warn,websocket connection error
+1706859806,warn,websocket connection error
+1706918512,warn,websocket connection error
+1706924397,warn,websocket connection error
+1706931595,warn,websocket connection error
+1706937408,warn,websocket connection error
+1707040728,info,received interaction
+1707040730,info,succeeded interaction
+1707040732,info,received interaction
+1707040732,info,succeeded interaction
+1707217647,warn,websocket connection error
+1707217657,warn,failed to reconnect to the gateway
+1707217669,warn,failed to reconnect to the gateway
+1707217683,warn,failed to reconnect to the gateway
+1707217701,warn,failed to reconnect to the gateway
+1707217727,warn,failed to reconnect to the gateway
+1707217769,warn,failed to reconnect to the gateway
+1707217843,warn,failed to reconnect to the gateway
+1707217981,warn,failed to reconnect to the gateway
+1707218236,info,established api connection
+1707218237,info,patched 6 server commands
+1707218237,info,patched 5 global commands
+1707232808,warn,websocket connection error
+1707235171,warn,websocket connection error
+1707267514,warn,websocket connection error
+1707332418,warn,websocket connection error
+1707344163,warn,websocket connection error
+1707357646,warn,websocket connection error
+1707371338,warn,websocket connection error
+1707390975,warn,websocket connection error
+1707408787,warn,websocket connection error
+1707417477,warn,websocket connection error
+1707424850,warn,websocket connection error
+1707455030,warn,websocket connection error
+1707516592,warn,websocket connection error
+1707521107,warn,websocket connection error
+1707684679,warn,websocket connection error
+1707771891,warn,websocket connection error
+1707775862,warn,websocket connection error
+1707791313,warn,websocket connection error
+1707793386,warn,websocket connection error
+1707795483,warn,websocket connection error
+1707798812,warn,websocket connection error
+1707806910,warn,websocket connection error
+1707809972,warn,websocket connection error
+1707832838,warn,websocket connection error
+1707866819,warn,websocket connection error
+1707867360,warn,websocket connection error
+1707879865,warn,websocket connection error
+1707899285,warn,websocket connection error
+1707919393,warn,websocket connection error
+1707925983,warn,websocket connection error
+1707931585,warn,websocket connection error
+1707965309,warn,websocket connection error
+1707972386,info,received interaction
+1707972386,info,succeeded interaction
+1707972403,info,received interaction
+1707972403,info,succeeded interaction
+1707972663,info,received interaction
+1707972667,info,succeeded interaction
+1707973152,info,received interaction
+1707973153,info,succeeded interaction
+1707973188,info,received interaction
+1707973190,info,succeeded interaction
+1707978671,warn,websocket connection error
+1707980406,warn,websocket connection error
+1707986287,warn,websocket connection error
+1708057794,warn,websocket connection error
+1708063149,warn,websocket connection error
+1708071439,warn,websocket connection error
+1708075135,warn,websocket connection error
+1708120293,warn,websocket connection error
+1708123159,warn,websocket connection error
+1708131372,warn,websocket connection error
+1708135269,warn,websocket connection error
+1708141302,warn,websocket connection error
+1708143689,warn,websocket connection error
+1708153278,warn,websocket connection error
+1708154840,warn,websocket connection error
+1708379033,info,received interaction
+1708379034,info,succeeded interaction
+1708379042,info,received interaction
+1708379043,info,succeeded interaction
+1708395423,warn,websocket connection error
+1708417192,warn,websocket connection error
+1708417780,warn,websocket connection error
+1708420123,warn,websocket connection error
+1708433526,info,received interaction
+1708433526,info,succeeded interaction
+1708433540,info,received interaction
+1708433540,info,succeeded interaction
+1708433636,info,received interaction
+1708433639,info,succeeded interaction
+1708433658,info,received interaction
+1708433658,info,succeeded interaction
+1708433674,info,received interaction
+1708433676,info,succeeded interaction
+1708433689,info,received interaction
+1708433689,info,succeeded interaction
+1708433712,info,received interaction
+1708433714,info,received interaction
+1708433715,info,received interaction
+1708433718,warn,failed interaction
+1708433718,warn,event handling failed
+1708433719,info,received interaction
+1708433723,info,received interaction
+1708433725,warn,failed interaction
+1708433725,warn,event handling failed
+1708433726,warn,failed interaction
+1708433727,warn,event handling failed
+1708433729,info,received interaction
+1708433729,info,succeeded interaction
+1708433730,warn,failed interaction
+1708433730,warn,event handling failed
+1708433731,warn,failed interaction
+1708433731,warn,event handling failed
+1708433740,info,received interaction
+1708433740,info,succeeded interaction
+1708433754,info,received interaction
+1708433755,info,succeeded interaction
+1708433760,info,received interaction
+1708433761,info,succeeded interaction
+1708433778,info,received interaction
+1708433780,info,succeeded interaction
+1708433810,info,received interaction
+1708433810,info,succeeded interaction
+1708433858,info,received interaction
+1708433858,info,succeeded interaction
+1708461475,warn,websocket connection error
+1708464456,warn,websocket connection error
+1708483044,warn,websocket connection error
+1708495288,warn,websocket connection error
+1708497527,warn,websocket connection error
+1708504937,warn,websocket connection error
+1708528198,warn,websocket connection error
+1708536231,info,received interaction
+1708536231,info,succeeded interaction
+1708536311,info,received interaction
+1708536315,info,succeeded interaction
+1708554086,warn,websocket connection error
+1708555449,info,received interaction
+1708555450,info,succeeded interaction
+1708555452,info,received interaction
+1708555454,info,succeeded interaction
+1708570105,info,received interaction
+1708570106,info,succeeded interaction
+1708595164,warn,websocket connection error
+1708602038,warn,websocket connection error
+1708607569,warn,websocket connection error
+1708614366,warn,websocket connection error
+1708649499,warn,websocket connection error
+1708661726,warn,websocket connection error
+1708687981,warn,websocket connection error
+1708703962,warn,websocket connection error
+1708706572,warn,websocket connection error
+1708711764,warn,websocket connection error
+1708713466,warn,websocket connection error
+1708713532,warn,websocket connection error
+1708714882,warn,websocket connection error
+1708736332,warn,websocket connection error
+1708755769,info,received interaction
+1708755770,info,succeeded interaction
+1708755771,info,received interaction
+1708755772,info,succeeded interaction
+1708914856,warn,websocket connection error
+1708945506,warn,websocket connection error
+1708947113,info,received interaction
+1708947113,info,succeeded interaction
+1708947115,info,received interaction
+1708947115,info,succeeded interaction
+1708947115,info,received interaction
+1708947116,info,succeeded interaction
+1708947117,info,received interaction
+1708947117,info,succeeded interaction
+1708947141,info,received interaction
+1708947141,info,succeeded interaction
+1708947144,info,received interaction
+1708947144,info,succeeded interaction
+1708947146,info,received interaction
+1708947146,info,succeeded interaction
+1708947157,info,received interaction
+1708947157,info,succeeded interaction
+1708947177,info,received interaction
+1708947177,info,succeeded interaction
+1708947197,info,received interaction
+1708947198,info,succeeded interaction
+1708947228,info,received interaction
+1708947228,info,succeeded interaction
+1708947303,info,received interaction
+1708947303,info,succeeded interaction
+1708947312,info,received interaction
+1708947312,info,succeeded interaction
+1708947326,info,received interaction
+1708947327,info,succeeded interaction
+1708947364,info,received interaction
+1708947364,info,succeeded interaction
+1708947375,info,received interaction
+1708947375,info,succeeded interaction
+1708947376,info,received interaction
+1708947376,info,succeeded interaction
+1708947377,info,received interaction
+1708947377,info,succeeded interaction
+1708947418,info,received interaction
+1708947419,info,succeeded interaction
+1708947494,info,received interaction
+1708947494,info,succeeded interaction
+1708947523,info,received interaction
+1708947524,info,succeeded interaction
+1708947536,info,received interaction
+1708947536,info,succeeded interaction
+1708947537,info,received interaction
+1708947537,info,succeeded interaction
+1708947539,info,received interaction
+1708947539,info,succeeded interaction
+1708947542,info,received interaction
+1708947542,info,succeeded interaction
+1708947543,info,received interaction
+1708947543,info,succeeded interaction
+1708947544,info,received interaction
+1708947544,info,succeeded interaction
+1708947544,info,received interaction
+1708947544,info,succeeded interaction
+1708947545,info,received interaction
+1708947545,info,succeeded interaction
+1708947546,info,received interaction
+1708947546,info,succeeded interaction
+1708947547,info,received interaction
+1708947547,info,succeeded interaction
+1708947548,info,received interaction
+1708947548,info,succeeded interaction
+1708947549,info,received interaction
+1708947549,info,succeeded interaction
+1708947552,info,received interaction
+1708947553,info,succeeded interaction
+1708947554,info,received interaction
+1708947554,info,succeeded interaction
+1708947556,info,received interaction
+1708947556,info,succeeded interaction
+1708947899,info,received interaction
+1708947899,info,succeeded interaction
+1708947935,info,received interaction
+1708947936,info,succeeded interaction
+1708950677,warn,websocket connection error
+1708952133,warn,websocket connection error
+1708965545,warn,websocket connection error
+1708986275,warn,websocket connection error
+1708990859,warn,websocket connection error
+1709001618,warn,websocket connection error
+1709023438,warn,websocket connection error
+1709070337,warn,websocket connection error
+1709081597,warn,websocket connection error
+1709115126,warn,websocket connection error
