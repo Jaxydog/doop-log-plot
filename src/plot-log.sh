@@ -22,11 +22,11 @@ display_usage() {
 
 if [[ -z "$1" ]]; then
     display_usage
-    exit 0
+    exit 1
 fi
 
+# Store and remove the first argument
 log_file="$1"
-
 shift
 
 csv_file="$log_file.csv"
